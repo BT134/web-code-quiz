@@ -1,0 +1,88 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+header {
+    position: relative;
+    display: flex;
+    flex: auto;
+    justify-content: space-between;
+    color: darkmagenta;
+    padding: 10px;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+
+#time {
+
+}
+
+#highScores {
+  }
+
+a:link {
+    text-decoration: none;
+  }
+  
+a:visited {
+    text-decoration: none;
+    color: darkmagenta;
+  }
+  
+a {
+    color:darkmagenta;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+  }
+  
+a:hover {
+    color: #d46efd;
+    text-shadow: 5px 5px 30px #d46efd;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+  }
+
+body {    
+    align-content: center;
+}
+
+.position {
+    position:relative;
+    display: block;
+    flex: auto;
+    align-items: center;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+button {
+    background-color: darkmagenta;
+    color:whitesmoke;
+    border-radius: 3.5px;
+    padding: 5px 10px 5px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+button:hover {
+    background: rgb(163, 80, 163);
+}
+
+#startButton {
+    margin-top: 20px; 
+}
+
+li {
+  
+}
