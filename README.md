@@ -5,7 +5,7 @@
 > I was tasked with creating a timed multiple choice coding quiz app that was to run in the browser. The app must run in any browser and feature dynamically updated HTML and CSS powered by JavaScript code that I had to write from scratch. It must have a clean, polished, and responsive user interface. 
 
 ## My User Storey Was: 
-```md
+>```md
 AS A coding boot camp student
 I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
 SO THAT I can gauge my progress compared to my peers
@@ -23,6 +23,8 @@ SO THAT I can gauge my progress compared to my peers
 
 ><img src="assets\images\screenshot.JPG" alt="Screen shot of my web quiz">
 
+>When you click on "Start Quiz" the questions and answer options load, with a 60 second timer in the top right. 
+
 ><img src="assets\images\screenshot2.JPG" alt="Screen shot of my web quiz">
 
 ## Installation
@@ -38,7 +40,7 @@ SO THAT I can gauge my progress compared to my peers
 * [GitHub Pages](https://pages.github.com)
 * [W3 Schools](https://www.w3schools.com/)
 * [MDN Web Docs](https://developer.mozilla.org/en-US/)
-* [Frank Craven - (tutor)]
+* [Frank Craven - (tutor)](https://github.com/FCraven)
 
 ## Author
 
